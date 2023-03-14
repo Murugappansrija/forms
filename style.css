@@ -1,0 +1,44 @@
+.maindiv{
+    background: lightgreen;
+    height: 97vh;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+   
+
+    
+
+}
+label{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+input{
+    width: 30vw;
+    height: 30px;
+    margin-left: 60px;
+    border-radius: 5px;
+    
+}
+.sex{
+    display: flex;
+    width: 30px;
+}
+.submit{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+textarea{
+    width: 33vw;
+    height: 30px;
+
+    margin-left: 60px;
+}
+button{
+    background-color: brown;
+    border-radius: 5px;
+}
+table,tr,td{
+    border: 1px solid black;
+}
